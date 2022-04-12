@@ -1,0 +1,72 @@
+
+body{
+    background: #f7f7f7;
+    font-family: verdana;
+    max-width: 900px;
+    margin: auto;
+
+}
+
+.photo{
+    border: 1px solid #505050;
+    border-radius: 50px;
+    align-self: right;
+}
+
+#title, .subtitle, .post-title{
+    color: #505050;
+}
+
+#title{
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: right;
+    margin-left: 35px;;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    margin: 80px;
+}
+
+a{
+    text-decoration: line-through;
+    color: #505050;
+}
+
+.post-title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background: white;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+.post-content{
+    margin: 0px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+.post-image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contacts-list{
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+.contacts-list li a {
+    text-decoration: none;
+}
