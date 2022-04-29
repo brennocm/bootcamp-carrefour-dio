@@ -43,7 +43,7 @@ header nav a:hover{
 /*Filme principal */
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)) ,url('/img/bojack-capa.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)), url('/2-Clone-Netflix/img/bojack-capa.jpg');
     
     height: 1000px;
     background-size: cover;
