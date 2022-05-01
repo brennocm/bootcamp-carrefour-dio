@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp-carrefour-dio",
+  "version": "1.0.0",
+  "description": "Repositório criado para o armazenamento dos projetos realizados durante o bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennocm/bootcamp-carrefour-dio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennocm/bootcamp-carrefour-dio/issues"
+  },
+  "homepage": "https://github.com/brennocm/bootcamp-carrefour-dio#readme"
+}
